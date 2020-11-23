@@ -1,2 +1,2 @@
 # movidazumbera
-HUGO + GitHub + NetlifyCMS site
+HUGO + GitHub + Netlify site
