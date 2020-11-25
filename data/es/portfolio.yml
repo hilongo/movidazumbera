@@ -7,7 +7,7 @@ portfolio:
     - name : Tag Design
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
+      categories : ["héroes cotidiandos"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://themefisher.com"
       
@@ -23,7 +23,7 @@ portfolio:
     - name : Clock Product
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
+      categories : ["héroes cotidiandos", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -39,7 +39,7 @@ portfolio:
     - name : Shopping Bag
       image : images/portfolio/portfolio-5.jpg
       image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
+      categories : ["héroes cotidiandos"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -63,7 +63,7 @@ portfolio:
     - name : Stationary Design
       image : images/portfolio/portfolio-8.jpg
       image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
+      categories : ["héroes cotidiandos", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -71,6 +71,6 @@ portfolio:
     - name : Tag Design
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
+      categories : ["héroes cotidiandos", "photography"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
