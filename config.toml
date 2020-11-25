@@ -1,5 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://hilongo.github.io"
+#baseURL = "https://hilongo.github.io"
+baseURL = "http://movidazumbera.com.ar"
 title = "Movida Zumbera"
 theme = "meghna"
 #themesDir = "../.."
