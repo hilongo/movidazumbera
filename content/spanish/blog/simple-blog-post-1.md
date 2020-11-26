@@ -1,18 +1,19 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
-author: John Doe
-description : "This is meta description"
+title: "#TBT – Turn It Up With Zumba® Class Favorite ‘Bouje’"
+date: 2020-09-12T12:52:36+06:00
+image_webp: images/blog/Bouje.webp
+image: images/blog/Bouje.jpg
+author: MovidaZ
+description : "Coreografía oficial en video"
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+{{< youtube Hsb322lHCFk >}}
 
-> Design is not just what it looks like and feels like. Design is how it works.
+**La música es algo realmente asombroso** – en cuestión de segundos, una frase, nota, o ritmo puede transportarte inmediatamente a otro momento y lugar; puede traer un recuerdo con tanta fuerza, que realmente sientes que estás en ese lugar, viviendo ese momento. Si lo piensas, la música es una verdadera máquina del tiempo y esa es una de las razones por la que es amada universalmente.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Una canción que ha estado en constante rotación en nuestras playlists por años y que siempre nos hace sentir buenas ondas es el éxito de la estrella haitiana J. Perry, `‘Bouje‘`. ¡Este recuerdo no envejecerá nunca jamás para nosotros y esperamos que pienses lo mismo!
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Ahora bien, estamos bastante seguros de que has bailado al ritmo de ‘Bouje’ en una `clase de Zumba®` una y mil veces, pero te presentamos al Zumba® Jammer `Henry Cedeño` enseñando unos movimientos poderosos para esta canción de soca kuduro.
+
+Esta canción se siente como una fiesta, así que báilala como si estuvieras celebrando todo eso que la vida tiene para ofrecer.

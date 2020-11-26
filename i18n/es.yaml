@@ -7,9 +7,9 @@
 - id: share
   translation: Compartir
 - id: aboutAuthor
-  translation: Acerca del autor
+  translation: El autor
 - id: authorsPosts
-  translation: Publicaciones del autor
+  translation: Otras publicaciones
 - id: all
   translation: Todo
 - id: about
